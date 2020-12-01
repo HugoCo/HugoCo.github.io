@@ -20,7 +20,7 @@ require './phpmailer/src/SMTP.php';
   // Receiver's Email
 --------------------------------------------- */
 
-$toEmail = "hugo.courte@outlook.com"; // Replace Your Email Address
+$toEmail = "hugo.courte@insa-lyon.fr"; // Replace Your Email Address
 
 
 /* --------------------------------------------
